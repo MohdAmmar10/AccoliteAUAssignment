@@ -1,2 +1,2 @@
 print("ACCOLITE")
-print("HI")
+print("BYE")
